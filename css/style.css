@@ -21,3 +21,10 @@ img.intro {
   margin-right: auto;
   border-radius: 50%;
 }
+.phaser {
+  color:gold;
+}
+.level {
+  color:darkviolet;
+  text-shadow: 5px;
+}
