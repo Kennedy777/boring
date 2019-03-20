@@ -1,0 +1,23 @@
+body {
+  background-color: olivedrab;
+}
+
+h2.intro {
+  font-size: 2em;
+  font-family: monospace;
+  color: navy;
+  font-variant: small-caps;
+}
+
+p.intro {
+  width: 50%;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
